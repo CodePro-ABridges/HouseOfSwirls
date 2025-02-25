@@ -14,6 +14,10 @@ A simple and responsive QR code generator built with Vite, React, TypeScript, an
 
 ![qrcode](https://github.com/user-attachments/assets/c981960e-d7f9-43fa-9806-92295243a3df)
 
+## Deployed App
+
+https://67bd6cd9d7806e2209a5d7db--houseofswirls.netlify.app/
+
 ## Prerequisites
 
 - Node.js (version 14 or higher)
