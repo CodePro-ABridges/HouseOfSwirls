@@ -10,6 +10,10 @@ A simple and responsive QR code generator built with Vite, React, TypeScript, an
 - Download QR codes as PNG images
 - Responsive design with Tailwind CSS
 
+## Test if you dare :)
+
+![qrcode](https://github.com/user-attachments/assets/c981960e-d7f9-43fa-9806-92295243a3df)
+
 ## Prerequisites
 
 - Node.js (version 14 or higher)
