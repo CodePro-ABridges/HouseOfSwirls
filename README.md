@@ -25,7 +25,7 @@ A simple and responsive QR code generator built with Vite, React, TypeScript, an
 2. Navigate to the project directory
 
 ```bash
-cd qr-code-generator
+cd HouseOfSwirls
 ```
 
 3. Install the dependencies
